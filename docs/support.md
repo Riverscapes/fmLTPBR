@@ -1,5 +1,5 @@
 ---
-title:  Acknowledgements
+title:  Funding
 weight: 2
 ---
 
@@ -34,11 +34,9 @@ Updated: July 2019
 #### Utah BRAT
 <div class="float-right"><a href="https://wildlife.utah.gov"><img src="{{ site.baseurl }}/assets/images/logos/Utah_DWR.jpg"></a></div> BRAT development and implementation for the entire state of Utah was funded by the [Utah Division of Wildlife Resources](https://wildlife.utah.gov/)  (USU Award No. 130940). We are grateful to John Shivik (former UDWR Fur Bearer Coordinator) and Kent Sorenson for investing in this effort.
 
-
 #### BRAT Pilot
 
 <div class="float-right"><a href="http://www.grandcanyontrust.org/"><img src="/assets/images/logos/GCT.jpg" alt="gct-logo2"></a></div> Initial development of BRAT was funded through a [pilot project](http://etal.joewheaton.org/gct-pilot-study-testing-the-beaver-restoration-assessment-tool-brat.html) granted to Utah State University (USU Award Control No. 120353) from the [Grand Canyon Trust](http://www.grandcanyontrust.org/) based on a grant from the [Walton Family Foundation](http://www.waltonfamilyfoundation.org/). We are grateful to Mary O'Brien for having the foresite to see what BRAT could be and invest in this intial effort. 
-
 <div align="center">
 	<div><a href="http://www.waltonfamilyfoundation.org"><img src="/assets/images/logos/WFF.jpg" alt="WFF"></a></div>
 </div>
