@@ -1,10 +1,10 @@
 # Site title will be used everywhere
-title: LTPBR Project Design & Monitoring App
+title: fmLTPBR
 description: > # this means to ignore newlines until "baseurl:"
-  Low-Tech Process-Based Restoration Project Design and Monitoring FileMaker Go App
+  Filemaker Pro Solution for Low-Tech Process-Based Restoration Project Design and Monitoring
 
 # Final root url of the site. No ending slash. No subdirectory
-url: https://riverscapes.github.io/fmLTPBR_design
+url: https://riverscapes.github.io/fmLTPBR
 # If the site is in a subdirectory url you should do it like this: "/subdirectory". Otherwise ""
 # baseurl: "/TemplateDocs"
 # When serving locally what port should we use:

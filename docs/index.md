@@ -1,18 +1,17 @@
 ---
 title: fmLTPBR
-weight: 1
+weight: 2
 ---
+
+<img src="assets/images/FM-Banner.png">
+
 
 # About fmLTPBR
 
-The fmLTPBR 
+The fmLTPBR database application supports a set of attributes and survey methods that can be used to facilitate the design, management, and monitoring of process based riverscape restoration projects. The approach draws heavily on the conceptualization of low-tech process-based restoration (LT-PBR) practices developed by [Wheaton and others (2019)](https://lowtechpbr.restoration.usu.edu/) and operationalizes those ideas through development of a unified framework for consistently documenting and presenting restoration information throughout a project lifespan. The protocol has been developed with the following intent:
 
+- Present an accessible and flexible set of design attributes and monitoring survey protocols that can be consistently applied to the design, implementation, and monitoring of LT-PBR projects.
 
+- Develop a flexible data collection and management solution that encourages adoption of the survey protocols by a diverse set of restoration practitioners and that supports common tasks in proposal development, permit acquisition, and fulfillment of land management agency monitoring and reporting requirements.
 
-This is your homepage Elit occaecat veniam nulla commodo aliqua ut sunt. Cupidatat occaecat sunt do do eiusmod id nostrud tempor quis dolor elit anim deserunt. Incididunt magna magna nostrud nulla in duis.
-
-I'll add some mark down
-
-Enim mollit culpa eu sint velit occaecat ullamco reprehenderit dolor eu esse do officia reprehenderit. Nisi quis Lorem ex commodo officia ipsum. Et pariatur mollit sit cupidatat incididunt incididunt commodo excepteur esse Lorem labore nostrud non.
-
-Labore dolor aute in eu labore ad. Ullamco velit sit veniam qui nulla cupidatat incididunt aliquip qui ea duis nisi ipsum sit. Do incididunt id veniam esse. Aute eiusmod do incididunt dolore elit aute veniam in et magna pariatur reprehenderit. Aliquip incididunt sit officia excepteur voluptate Lorem dolore cillum non nulla culpa sint non.
+- Advance the science and art of LT-PBR practices by encouraging the adoption of a standardized design, monitoring, and approach for the calculation and interpretation of summary metrics that describe project outcomes and effectiveness.
