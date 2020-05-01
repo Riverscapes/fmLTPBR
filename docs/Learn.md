@@ -6,29 +6,33 @@ weight: 1
 <h1><img src="assets/images/fmLTPBR-50.png">  fmLTPBR Learning Resources</h1>
 The following youTube videos are set up to guide users through all aspects of the LTPBR monitoring protocol, and it's implementation within the fmLTPBR database application. The videos do their best to cover everything you need to know, from getting started with the software, project design and implementation, and project monitoring.
 
-## 01 - Getting Started
+## 01 - Protocol Introduction and Overview
 
-Introduction to Filemaker Pro and the fmLTPBR database application operation, organization, and built in features.
+A short introduction to the project implementation and monitoring protocol scope, components, and utility.
 
-## 02 - Project Setup
+<div class="responsive-embed widescreen">
+  <iframe width="560" height="315" src="https://youtu.be/PQ42h1ErHPQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
-Initial project setup including establishment of restoration treatment and control reaches, structural treatment types and materials, and setting implementation timelines.
+## 02 - Getting Started with the fmLTPBR database solution
 
-## 03 - Reach Scale Observations
+Introduction to Filemaker Pro and the fmLTPBR database application operation, organization, and features.
 
-Treatment and control reach setup including identification of risks and opportunities, setting restoration objectives.
+## 03 - Project Project Scoping and Restoration Objectives
 
-## 04 - Photopoints
+Using the database application during initial project scoping to document project area resources, riverscape features, and reach locations and objectives.
 
-Using the database application to establish locations for repeat photopoint collection.
+## 04 - Structure Types and Materials
 
-## 05 - Rapid Monitoring - The Reach Visit
+Low - tech tructure type specifications - the restoratoin cookbook.
 
-Using the reach scale visit for rapid - opportunistic monitoring.
+## 05 - Structure Implementation Design and Maintenance
 
-## 06 - Implementation Planning
+Design of structure an structure complexes as well as specification of structure maintenance.
 
-Implementation design and maintenance actions at the complex and structure level.
+## 06 - Rapid Monitoring - Repeat Photos and Site Visits
+
+Using the database application to implement rapid monitoring data collection using repeat photos and site visits to track progress toward restoration objectives.
 
 ## 07 - Field Survey Data Collection
 

@@ -18,16 +18,24 @@ The fmLTPBR database application supports a set of attributes and survey methods
 
 ## Project Resources
 
-Start with the [Learning Resources](#) to get an introduction to the protocol and the database application. From there you can download the protocol and a blank copy of the database application.
+Start with the [Learning Resources]({{site.baseurl}}/Learn) to get an introduction to the protocol and the database application. From there you can download the protocol and a blank copy of the database application.
 
 <div align="center">
-  <a class="button" href="#"><i class="fa fa-youtube" aria-hidden="true"></i>  Learning Resources</a>
-  <a class="button" href="#"><i class="fa fa-book" aria-hidden="true"></i> Get the Protocol</a>
+  <a class="button" href="{{ site.baseurl }}/Learn"><i class="fa fa-youtube" aria-hidden="true"></i>  Learning Resources</a>
+  <a class="button" href="{{ site.baseurl }}/Protocol"><i class="fa fa-book" aria-hidden="true"></i> Get the Protocol</a>
+  <!-- TODO Add the release link on github here. -->
   <a class="button" href="#"><i class="fa fa-database" aria-hidden="true"></i> Get the Database</a>
 </div>
 
 ## Project Vision and Roadmap
-Some notes on the state of the fmLTPBR application and where it is headed ultimately headed.
+Expectations for future releases of the fmLTPBR database application.
+
+| Release   | Timline   | Release Description   |
+| --------- | ------- | ------- |
+| **V 1.0.0** | Spring 2020 | Database implementation within Filemaker Pro supporting version 1.0 of the LT-PBR Implementation and Monitoring Protocol |
+| **V 2.0.0** | Spring 2022 | Implementation remains in Filemaker Pro but gains some support for data syncronization and cloud storage. Supports extension and refinement of the LT-PBR Implementation and Monitoring Protocol within version 2.0|
+| **V 3.0.0** | Spring 2024 | Database application implemented in open source set of technologies that support an increased set of user platforms (i.e., Android, iOS, Mac, Windows) and extended data synchronization and cloud storage functionality. |
 
 ## Acknowledgements
-Some notes on the state of the fmLTPBR application and where it is headed ultimately headed.
+This draft of the protocol and database application was by a grant supplied by the [Oregon Watershed Enhancement Board](https://www.oregon.gov/oweb/Pages/index.aspx), and coordinated by the Mid-John Day Bridge Creek Watershed Council. The protocol was developed based on the combined input of restoratoin ecologists, geomorphologists, and data scientists from [Anabranch Solutions](www.anabranchsolutions.com), [Eco Logical Research](www.eco-logical.research.com), and [Utah State University](http://etal.joewheaton.org/).
+
