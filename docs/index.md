@@ -30,7 +30,7 @@ Start with the [Learning Resources]({{site.baseurl}}/Learn) to get an introducti
 ## Project Vision and Roadmap
 Expectations for future releases of the fmLTPBR database application.
 
-| Release   | Timline   | Release Description   |
+| Release   | Timeline   | Release Description   |
 | --------- | ------- | ------- |
 | **V 1.0.0** | Spring 2020 | Database implementation within Filemaker Pro supporting version 1.0 of the LT-PBR Implementation and Monitoring Protocol |
 | **V 2.0.0** | Spring 2022 | Implementation remains in Filemaker Pro but gains some support for data syncronization and cloud storage. Supports extension and refinement of the LT-PBR Implementation and Monitoring Protocol within version 2.0|
