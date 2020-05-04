@@ -11,7 +11,7 @@ The following youTube videos are set up to guide users through all aspects of th
 A short introduction to the project implementation and monitoring protocol scope, components, and utility.
 
 <div class="responsive-embed widescreen">
-  <iframe width="560" height="315" src="https://youtu.be/PQ42h1ErHPQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/PQ42h1ErHPQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 ## 02 - Getting Started with the fmLTPBR database solution
