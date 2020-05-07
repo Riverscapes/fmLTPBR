@@ -4,7 +4,7 @@ weight: 1
 ---
 
 <h1><img src="assets/images/fmLTPBR-50.png">  fmLTPBR Learning Resources</h1>
-The following youTube videos are set up to guide users through all aspects of the LTPBR monitoring protocol and its implementation within the fmLTPBR database application. The videos do their best to cover everything you need to know to get  started with the software, and organize project design, implementation, and monitoring.
+The following youTube videos are set up to guide users through all aspects of the LTPBR monitoring protocol and its implementation within the fmLTPBR database application. The videos do their best to cover everything you need to know to get started with the software and its role in project design, implementation, and monitoring.
 
 ## 01 - Protocol Introduction and Overview
 
