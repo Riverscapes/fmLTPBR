@@ -3,12 +3,16 @@ title: fmLTPBR
 weight: 2
 ---
 
-<img src="assets/images/FM-Banner.png">
 
+<h1>LTPBR Implementation and Monitoring Protocol</h1>
 
-# About fmLTPBR
+The Low-Tech Process-Based Restoration Implementation and Monitoring Protocol outlines a set of attributes and survey methods that can be used to facilitate the design, implementation, and monitoring of process-based riverscape restoration projects. The approach draws heavily on the conceptualization of low-tech process-based restoration (LT-PBR) practices developed by [Wheaton and others (2019)](https://lowtechpbr.restoration.usu.edu/) and operationalizes those ideas through development of a unified framework for consistently documenting and presenting restoration information throughout a project lifespan.
 
-The fmLTPBR database application supports a set of attributes and survey methods that can be used to facilitate the design, management, and monitoring of process based riverscape restoration projects. The approach draws heavily on the conceptualization of low-tech process-based restoration (LT-PBR) practices developed by [Wheaton and others (2019)](https://lowtechpbr.restoration.usu.edu/) and operationalizes those ideas through development of a unified framework for consistently documenting and presenting restoration information throughout a project lifespan. The protocol has been developed with the following intent:
+<div align="center">
+  <img src="assets/images/ProjectImage.png">
+</div>
+
+<h2><img src="assets/images/fmLTPBR-50.png">  Protocol Scope and Intent</h2>
 
 - Present an accessible and flexible set of design attributes and monitoring survey protocols that can be consistently applied to the design, implementation, and monitoring of LT-PBR projects.
 
@@ -16,15 +20,15 @@ The fmLTPBR database application supports a set of attributes and survey methods
 
 - Advance the science and art of LT-PBR practices by encouraging the adoption of a standardized design, monitoring, and approach to the calculation and interpretation of summary metrics that describe project outcomes and effectiveness.
 
-## Project Resources
+<h2><img src="assets/images/fmLTPBR-50.png">  fmLTPBR Protocol Database Application</h2>
 
-Start with the [Learning Resources]({{site.baseurl}}/Learn) to get an introduction to the protocol and the database application. From there you can download the protocol and a blank copy of the database application.
+the fmLTPBR database was designed to collect, store, summarize, disseminate all data requirements within the implementation and monitoring protocol. The database has been designed for use on Windows and Mac operating systems running Filemaker Pro, and for field data collection on iPads running Filemaker Go.
 
 <div align="center">
-  <a class="button" href="{{ site.baseurl }}/Learn"><i class="fa fa-youtube" aria-hidden="true"></i>  Learning Resources</a>
-  <a class="button" href="{{ site.baseurl }}/Protocol"><i class="fa fa-book" aria-hidden="true"></i> Get the Protocol</a>
+  <a class="button large" href="{{ site.baseurl }}/Learn"><i class="fa fa-youtube" aria-hidden="true"></i>  Learning Resources</a>
+  <a class="button large" href="#"><i class="fa fa-book" aria-hidden="true"></i> Get the Protocol</a>
   <!-- TODO Add the release link on github here. -->
-  <a class="button" href="#"><i class="fa fa-database" aria-hidden="true"></i> Get the Database</a>
+  <a class="button large" href="#"><i class="fa fa-database" aria-hidden="true"></i> Get the Database</a>
 </div>
 
 ## Project Vision and Roadmap

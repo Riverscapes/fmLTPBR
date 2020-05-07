@@ -54,11 +54,27 @@ Design of structure an structure complexes as well as specification of structure
 
 Using the database application to implement rapid monitoring data collection using repeat photos and site visits to track progress toward restoration objectives.
 
+<div class="responsive-embed widescreen">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/JyGeh9H1EC0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+<hr>
+
 ## 07 - Field Survey Data Collection
 
 Using the database application in the field to monitor the location and characteristics of structural elements (i.e., beaver dams and wood accumulations) and geomorphic habitat units.
 
+<div class="responsive-embed widescreen">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/t9nhsBW3l_k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+<hr>
 
 ## 08 - Desktop Riverscape Survey
 
 Using aerial imagery and a GIS to monitoring change in riverscape features.
+
+<div class="responsive-embed widescreen">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/o9YN-ptaeP8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+<hr>
+
+<a class="button large" href="#"><i class="fa fa-arrow-up" aria-hidden="true"></i>  Top of Page</a>
