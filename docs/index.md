@@ -23,9 +23,9 @@ The Low-Tech Process-Based Restoration Implementation and Monitoring Protocol an
 
 <div align="center">
   <a class="button large" href="{{ site.baseurl }}/Learn"><i class="fa fa-youtube" aria-hidden="true"></i>  Learning Resources</a>
-  <a class="button large" href="#"><i class="fa fa-book" aria-hidden="true"></i> Get the Protocol</a>
+  <a class="button large" href="https://github.com/Riverscapes/fmLTPBR/releases/download/v1.0.0/LTPBR-Monitoring-V1.pdf"><i class="fa fa-book" aria-hidden="true"></i> Get the Protocol</a>
   <!-- TODO Add the release link on github here. -->
-  <a class="button large" href="#"><i class="fa fa-database" aria-hidden="true"></i> Get the Database</a>
+  <a class="button large" href="https://github.com/Riverscapes/fmLTPBR/releases/download/v1.0.0/fmLTPBR-20200507.fmp12"><i class="fa fa-database" aria-hidden="true"></i> Get the Database</a>
 </div>
 
 <h2><img src="assets/images/fmLTPBR-50.png">  fmLTPBR Protocol Database Application</h2>
