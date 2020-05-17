@@ -17,7 +17,7 @@ The Low-Tech Process-Based Restoration Implementation and Monitoring Protocol an
   <a class="button large" href="{{ site.baseurl }}/Learn"><i class="fa fa-youtube" aria-hidden="true"></i>  Learning Resources</a>
 </div>
 
-<h2><img src="assets/images/fmLTPBR-50.png">  Protocol Scope and Intent</h2>
+<h2><i class="fa fa-book" aria-hidden="true"></i>  Protocol Scope and Intent</h2>
 
 - Present an accessible and flexible set of design attributes and monitoring survey protocols that can be consistently applied to the design, implementation, and monitoring of LT-PBR projects.
 
@@ -41,14 +41,28 @@ The fmLTPBR database was designed to collect, store, summarize, and disseminate 
   <a class="button large" href="https://github.com/Riverscapes/fmLTPBR/releases/download/v1.0.0/fmLTPBR-20200507.fmp12"><i class="fa fa-database" aria-hidden="true"></i> Get the Database</a>
 </div>
 
-<h2><img src="assets/images/fmLTPBR-50.png">  Keep Up to Date</h2>
+<h2><i class="fa fa-envelope" aria-hidden="true"></i>  Keep Up to Date</h2>
 
 If you would like to be notified about future protocol and database updates please fill out the short form below. Don't worry, we will not share your email, but you may recieve an email from the protocol development team from time to time about new protocol versions, database features, or bug fixes.
 
 <div align="center">
-  <a class="button large" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScmW3_oIP55FpAEfEN6UDVQFtDiJvhGRvxEMB7SrqZxF6SAxQ/viewform?usp=sf_link"><i class="fa fa-envelope" aria-hidden="true"></i> Keep Me Up to Date</a>
+  <a class="button large" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScmW3_oIP55FpAEfEN6UDVQFtDiJvhGRvxEMB7SrqZxF6SAxQ/viewform?usp=sf_link"><i class="fa fa-envelope" aria-hidden="true"></i>  Keep Me Up to Date</a>
 </div>
 
+<h2><i class="fa fa-map-marker" aria-hidden="true"></i>  Share and Discover Projects</h2>
+
+Let's get LT-PBR projects on the map!! We are encouraging people to add their projects to the (LT-PBR Explorer)[https://bda-explorer.herokuapp.com/] website. It only takes a couple of minutes, and we won't share any of your information. Also feel free to just browse the site and look at the extent of low-tech process-based restoration projects.
+
+
+<div align="center">
+  <img src="assets/images/explorer.png">
+</div>
+
+<div align="center">
+  <a class="button large" target="_blank" href="https://bda-explorer.herokuapp.com/"><i class="fa fa-share-alt" aria-hidden="true"></i>  Discover Projects</a>
+</div>
+
+<!-- 
 ## Project Vision and Roadmap
 Expectations for future releases of the fmLTPBR database application.
 
@@ -57,7 +71,7 @@ Expectations for future releases of the fmLTPBR database application.
 | **V 1.0.0** | Spring 2020 | Database implementation within Filemaker Pro supporting version 1.0 of the LT-PBR Implementation and Monitoring Protocol |
 | **V 1.1.0** | Fall 2020 | Export of projects into riverscapes compliant format. Extended database import functionality|
 | **V 2.0.0** | Spring 2021 | Implementation remains in Filemaker Pro but gains some support for data syncronization and cloud storage. Supports extension and refinement of the LT-PBR Implementation and Monitoring Protocol within version 2.0|
-| **V 3.0.0** | Spring 2023 | Database application implemented in open source set of technologies that support an increased set of user platforms (i.e., Android, iOS, Mac, Windows) and extended data synchronization and cloud storage functionality. |
+| **V 3.0.0** | Spring 2023 | Database application implemented in open source set of technologies that support an increased set of user platforms (i.e., Android, iOS, Mac, Windows) and extended data synchronization and cloud storage functionality. | -->
 
 ## Acknowledgements
 This draft of the protocol and database application was by a grant supplied by the [Oregon Watershed Enhancement Board](https://www.oregon.gov/oweb/Pages/index.aspx), and coordinated by the Mid-John Day Bridge Creek Watershed Council. The protocol was developed based on the combined input of restoratoin ecologists, geomorphologists, and data scientists from [Anabranch Solutions](www.anabranchsolutions.com), [Eco Logical Research](www.eco-logical.research.com), and [Utah State University](http://etal.joewheaton.org/).
