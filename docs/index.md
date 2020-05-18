@@ -51,7 +51,7 @@ If you would like to be notified about future protocol and database updates plea
 
 <h2><i class="fa fa-map-marker" aria-hidden="true"></i>  Share and Discover Projects</h2>
 
-Let's get LT-PBR projects on the map!! We are encouraging people to add their projects to the (LT-PBR Explorer)[https://bda-explorer.herokuapp.com/] website. It only takes a couple of minutes, and we won't share any of your information. Also feel free to just browse the site and look at the extent of low-tech process-based restoration projects.
+Let's get LT-PBR projects on the map!! We are encouraging people to add their projects to the [LT-PBR Explorer](https://bda-explorer.herokuapp.com/) website. Adding a project only takes a few minutes. You are also encouraged to just browse the site to explore the  extent of low-tech process-based restoration projects.
 
 
 <div align="center">
