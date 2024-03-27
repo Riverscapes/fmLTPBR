@@ -1,3 +1,5 @@
+This version of the protocol is being superseded (Summer 2024) by a Version 2, that is more GIS based. That protocol can be implemented with the [Riverscapes Studio (QRiS plugin to QGIS)](https://qris.riverscapes.net). 
+
 # fmLTPBR Database Application
 
 Database management and field data collection solution supporting the Low-Tech Process-Based Restoration Implementation and Monitoring Protocol. At this time, the database application runs on Mac and Windows operating systems within Filemaker Pro Advanced and on mobile devices iOS devices within Filemaker Go for field data colleciton.
@@ -11,6 +13,9 @@ Database management and field data collection solution supporting the Low-Tech P
 - Develop a flexible data collection and project management solution that supports common tasks in proposal development, permit acquisition, and fulfillment of land management agency monitoring and reporting requirements.
 
 - Advance the science and art of LT-PBR practices by encouraging the adoption of a standardized design, monitoring, and approach to the calculation and interpretation of summary metrics that describe project outcomes and effectiveness.
+
+### Actual Protocol
+Weber, N., Wathen, G., & Bouwes, N. (2021). Low-Tech Process-Based Restoration - Project Implementation and Monitoring Protocol - Version 1 (1.0). Zenodo. [https://doi.org/10.5281/zenodo.10631553](https://doi.org/10.5281/zenodo.10631553)
 
 ## fmLTPBR Database Application
 
